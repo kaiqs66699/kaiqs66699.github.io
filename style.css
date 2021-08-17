@@ -33,7 +33,7 @@ body{
     height: 40vh;
     align-items: baselinedisplay: inline-flex;
     display:baseline;
-        
+    font-style: italic;   
 
     display: flex;
     justify-content: center;
